@@ -1,4 +1,4 @@
-# testrepo reamde1
+# testrepo reamde
 
 This is only a test
 * If you encounter an error, you are not alone
@@ -8,6 +8,8 @@ This is only a test
 
  ```
  doSomething();
+ 
+ $ git config --global http.proxy <proxyurl>:80
  ```
 
 ## Status message you may or may not see
